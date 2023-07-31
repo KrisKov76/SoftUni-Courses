@@ -1,4 +1,4 @@
 # SoftUni-Courses
-python_fundamentals
+## python_fundamentals
 
-Hi, I'm Kristian Kovachev, a future Python Developer, a student in SoftUni University from Plovdiv, Bulgaria. 
+![image](https://github.com/KrisKov76/SoftUni-Courses/assets/123325623/f47cfcfd-fe2f-4560-9b31-1b40f51259a1)
