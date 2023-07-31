@@ -1,2 +1,0 @@
-print('Kris')
-print('New')
