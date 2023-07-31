@@ -1,1 +1,2 @@
 print('Kris')
+print('New')
