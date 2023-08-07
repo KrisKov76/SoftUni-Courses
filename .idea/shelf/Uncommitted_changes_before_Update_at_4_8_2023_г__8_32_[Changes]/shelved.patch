@@ -1,0 +1,15 @@
+diff --git a/python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/1. number_definer.py b/python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/01. number_definer.py
+rename from python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/1. number_definer.py
+rename to python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/01. number_definer.py
+diff --git a/python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/01. String Manipulator.py b/python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/01. string_manipulator.py
+rename from python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/01. String Manipulator.py
+rename to python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/01. string_manipulator.py
+diff --git a/python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/4. even_numbers.py b/python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/04. even_numbers.py
+rename from python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/4. even_numbers.py
+rename to python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/04. even_numbers.py
+diff --git a/python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/5. number_between_1_ and_100.py b/python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/05. number_between_1_ and_100.py
+rename from python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/5. number_between_1_ and_100.py
+rename to python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/05. number_between_1_ and_100.py
+diff --git a/python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/02. Encrypting Password.py b/python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/02. encrypting_password.py
+rename from python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/02. Encrypting Password.py
+rename to python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/02. encrypting_password.py
