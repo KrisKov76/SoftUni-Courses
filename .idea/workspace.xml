@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_7_2023___15_48__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_7_2023_г__15_48_[Changes]/shelved.patch" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/01. count_same_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/02. students_grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/03. record_unique_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/04. parking_lot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/05. softUni_party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/theory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2023_г__8_32_[Changes]1/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_project_fundamentals/krischo.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_project_fundamentals/new_document.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_project_fundamentals/project_fundamentals.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project_fundamentals/project_fundamentals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_project_fundamentals/regex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_project_fundamentals/project_fundamentals.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2TJ24aTa1uUSfap2inv2iEyDfK2" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -61,16 +66,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/spacy_udpipe-1.0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Lists as Stacks and Queues - Lab" />
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.project_fundamentals (1)">
-    <configuration name="proben (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05. softUni_party">
+    <configuration name="02. students_grades" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_project_fundamentals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_project_fundamentals/proben.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/02. students_grades.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="proben" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. record_unique_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_project_fundamentals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals\proben.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Tuples and Sets - Lab\03. record_unique_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="project_fundamentals (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. parking_lot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_project_fundamentals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_project_fundamentals/project_fundamentals.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Tuples and Sets - Lab\04. parking_lot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="project_fundamentals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. softUni_party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_project_basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals\project_fundamentals.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Tuples and Sets - Lab\05. softUni_party.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="theory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,32 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_project_fundamentals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_project_fundamentals/regex.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="verbs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_project_fundamentals" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_project_fundamentals/verbs.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Tuples and Sets - Lab\theory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.project_fundamentals (1)" />
-        <item itemvalue="Python.verbs" />
-        <item itemvalue="Python.project_fundamentals" />
-        <item itemvalue="Python.regex" />
-        <item itemvalue="Python.proben (1)" />
+        <item itemvalue="Python.05. softUni_party" />
+        <item itemvalue="Python.04. parking_lot" />
+        <item itemvalue="Python.03. record_unique_names" />
+        <item itemvalue="Python.theory" />
+        <item itemvalue="Python.02. students_grades" />
       </list>
     </recent_temporary>
   </component>
@@ -216,5 +202,105 @@
       <updated>1690746673506</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/03. supermarket.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/04. water_dispenser.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05. hot_potato.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05. hot_potato.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05. hot_potato.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/01. reverse_strings.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/02. matching_parentheses.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/01. reverse_numbers.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/02. stacked_queries.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/02. stacked_queries.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/03. fast_food.py</url>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/03. fast_food.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/03. fast_food.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/05. truck_tour.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/06. balanced_parentheses.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/01. count_same_values.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/02. students_grades.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/02. students_grades.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/04. parking_lot.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
