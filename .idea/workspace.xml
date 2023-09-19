@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/01. count_same_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/02. students_grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/03. record_unique_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/04. parking_lot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/05. softUni_party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/theory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2023_г__8_32_[Changes]1/shelved.patch" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/01. numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02. expression_evaluator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/03. milkshakes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/05. santas_present_factory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_project_fundamentals/project_fundamentals.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +72,8 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05. softUni_party">
-    <configuration name="02. students_grades" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03. milkshakes">
+    <configuration name="01. numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/02. students_grades.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/01. numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. record_unique_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. expression_evaluator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +102,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Tuples and Sets - Lab\03. record_unique_names.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Stacks, Queues, Tuples and Sets - Exercise\02. expression_evaluator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03. milkshakes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Stacks, Queues, Tuples and Sets - Exercise\03. milkshakes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,34 +178,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="theory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Tuples and Sets - Lab\theory.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03. milkshakes" />
+        <item itemvalue="Python.02. expression_evaluator" />
+        <item itemvalue="Python.01. numbers" />
         <item itemvalue="Python.05. softUni_party" />
         <item itemvalue="Python.04. parking_lot" />
-        <item itemvalue="Python.03. record_unique_names" />
-        <item itemvalue="Python.theory" />
-        <item itemvalue="Python.02. students_grades" />
       </list>
     </recent_temporary>
   </component>
@@ -299,6 +295,26 @@
           <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/04. parking_lot.py</url>
           <line>11</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/01. numbers.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02. expression_evaluator.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02. expression_evaluator.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02. expression_evaluator.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
