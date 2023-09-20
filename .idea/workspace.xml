@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/01. numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02. expression_evaluator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/03. milkshakes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/05. santas_present_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/01. Sum Matrix Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/02. Even Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03. Flattening Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. Sum Matrix Columns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/05. Primary Diagonal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/06. Symbol in Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/04. Honey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/06. Paint Colors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +77,8 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03. milkshakes">
-    <configuration name="01. numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06. Symbol in Matrix">
+    <configuration name="02. Even Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/01. numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/02. Even Matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. expression_evaluator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Flattening Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Stacks, Queues, Tuples and Sets - Exercise\02. expression_evaluator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03. Flattening Matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. milkshakes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Sum Matrix Columns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Stacks, Queues, Tuples and Sets - Exercise\03. milkshakes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. Sum Matrix Columns.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. parking_lot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Primary Diagonal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Tuples and Sets - Lab\04. parking_lot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/05. Primary Diagonal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. softUni_party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06. Symbol in Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Tuples and Sets - Lab\05. softUni_party.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/06. Symbol in Matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03. milkshakes" />
-        <item itemvalue="Python.02. expression_evaluator" />
-        <item itemvalue="Python.01. numbers" />
-        <item itemvalue="Python.05. softUni_party" />
-        <item itemvalue="Python.04. parking_lot" />
+        <item itemvalue="Python.06. Symbol in Matrix" />
+        <item itemvalue="Python.05. Primary Diagonal" />
+        <item itemvalue="Python.04. Sum Matrix Columns" />
+        <item itemvalue="Python.03. Flattening Matrix" />
+        <item itemvalue="Python.02. Even Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -315,6 +320,21 @@
           <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02. expression_evaluator.py</url>
           <line>7</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03. Flattening Matrix.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. Sum Matrix Columns.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. Sum Matrix Columns.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
