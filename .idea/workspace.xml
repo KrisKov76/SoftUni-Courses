@@ -5,16 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/01. Sum Matrix Elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/02. Even Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03. Flattening Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. Sum Matrix Columns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/05. Primary Diagonal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/06. Symbol in Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/04. Honey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/06. Paint Colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/01. diagonals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/02. diagonal_difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/03. 2x2_squares_in_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/04. maximal_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/05. matrix_of_palindromes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/06. matrix_shuffling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07. Snake Moves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/09. Miner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07. square_with_maximum_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/01. Sum Matrix Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/01. sum_matrix_elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/02. Even Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/02. even_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03. Flattening Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03. flattening_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. Sum Matrix Columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. sum _matrix_columns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/05. Primary Diagonal.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/05. primary_diagonal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/06. Symbol in Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/06. symbol_in_matrix.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +84,8 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06. Symbol in Matrix">
-    <configuration name="02. Even Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.09. Miner">
+    <configuration name="05. matrix_of_palindromes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/02. Even Matrix.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Multidimensional Lists - Exercise 1\05. matrix_of_palindromes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Flattening Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06. matrix_shuffling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03. Flattening Matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/06. matrix_shuffling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Sum Matrix Columns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07. Snake Moves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. Sum Matrix Columns.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07. Snake Moves.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Primary Diagonal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09. Miner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/05. Primary Diagonal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/09. Miner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06. Symbol in Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/06. Symbol in Matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06. Symbol in Matrix" />
-        <item itemvalue="Python.05. Primary Diagonal" />
-        <item itemvalue="Python.04. Sum Matrix Columns" />
-        <item itemvalue="Python.03. Flattening Matrix" />
-        <item itemvalue="Python.02. Even Matrix" />
+        <item itemvalue="Python.09. Miner" />
+        <item itemvalue="Python.07. Snake Moves" />
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.06. matrix_shuffling" />
+        <item itemvalue="Python.05. matrix_of_palindromes" />
       </list>
     </recent_temporary>
   </component>
@@ -322,21 +329,73 @@
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03. Flattening Matrix.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03. flattening_matrix.py</url>
           <line>12</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. Sum Matrix Columns.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. sum _matrix_columns.py</url>
           <line>7</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. Sum Matrix Columns.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. sum _matrix_columns.py</url>
           <line>11</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07. square_with_maximum_sum.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07. square_with_maximum_sum.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07. square_with_maximum_sum.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/03. 2x2_squares_in_matrix.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/04. maximal_sum.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/05. matrix_of_palindromes.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/06. matrix_shuffling.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07. Snake Moves.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07. Snake Moves.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
