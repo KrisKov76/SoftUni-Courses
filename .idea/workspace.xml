@@ -5,9 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/bomb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/01_negative_vs_positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/02_keyword_arguments_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/03_even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/04_numbers_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/05_concatenate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/06_function_executor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/07_grocery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/08_age_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/09_recursion_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/01_multiplication_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/02_person_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/03_cheese_showcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/04_rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/05_operate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/06_recursive Power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lab Error Handling/So Many Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/01_flatten Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/02_matrix_modification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/03_Knight Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/04_easter_bunny.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/05_alice_in_wonderland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/06_range_day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/07_present_delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise/01_unique_usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advanced-09-2023/ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/01. reverse_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/01_reverse_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/02. stacked_queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/02_stacked_queries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/03. fast_food.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/03_fast_food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/04. fashion_boutique.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/04_fashion_boutique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/05. truck_tour.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/05_truck_tour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/06. balanced_parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/06_balanced_parentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/01. reverse_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/01_reverse_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/02. matching_parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/02_matching_parentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/03. supermarket.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/03_supermarket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/04. water_dispenser.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/04_water_dispenser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05. hot_potato.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05_hot_potato.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/01. diagonals.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/01_diagonals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/02. diagonal_difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/02_diagonal_difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/03. 2x2_squares_in_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/03_2x2_squares_in_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/04. maximal_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/04_maximal_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/05. matrix_of_palindromes.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/05_matrix_of_palindromes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/06. matrix_shuffling.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/06_matrix_shuffling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07. Snake Moves.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07_Snake Moves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/09. Miner.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/09_Miner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/01. sum_matrix_elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/01_sum_matrix_elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/02. even_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/02_even_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03. flattening_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03_flattening_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. sum _matrix_columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04_sum _matrix_columns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/05. primary_diagonal.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/05_primary_diagonal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/06. symbol_in_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/06_symbol_in_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07. square_with_maximum_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07_square_with_maximum_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/01. numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/01_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02. expression_evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02_expression_evaluator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/03. milkshakes.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/03_milkshakes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/04. Honey.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/04_honey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/05. santas_present_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/05_santas_present_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/06. Paint Colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/06_paint_colors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +129,8 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.example">
-    <configuration name="07. Snake Moves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex2">
+    <configuration name="01_unique_usernames" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07. Snake Moves.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Tuples and Sets - Exercise\01_unique_usernames.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09. Miner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_alice_in_wonderland" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/09. Miner.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Multidimensional Lists - Exercise 2\05_alice_in_wonderland.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_present_delivery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/example.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Multidimensional Lists - Exercise 2\07_present_delivery.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="treasure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +201,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Multidimensional Lists - Exercise 1\treasure.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="treasure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +222,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advanced-09-2023\Multidimensional Lists - Exercise 1\treasure.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise/ex2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.example" />
-        <item itemvalue="Python.treasure" />
-        <item itemvalue="Python.treasure" />
-        <item itemvalue="Python.09. Miner" />
-        <item itemvalue="Python.07. Snake Moves" />
+        <item itemvalue="Python.ex2" />
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.01_unique_usernames" />
+        <item itemvalue="Python.07_present_delivery" />
+        <item itemvalue="Python.05_alice_in_wonderland" />
       </list>
     </recent_temporary>
   </component>
@@ -201,76 +260,76 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/03. supermarket.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/03_supermarket.py</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/04. water_dispenser.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/04_water_dispenser.py</url>
           <line>7</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05. hot_potato.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05_hot_potato.py</url>
           <line>7</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05. hot_potato.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05_hot_potato.py</url>
           <line>5</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05. hot_potato.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05_hot_potato.py</url>
           <line>12</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/01. reverse_strings.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/01_reverse_strings.py</url>
           <line>2</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/02. matching_parentheses.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/02_matching_parentheses.py</url>
           <line>4</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/01. reverse_numbers.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/01_reverse_numbers.py</url>
           <line>3</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/02. stacked_queries.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/02_stacked_queries.py</url>
           <line>3</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/02. stacked_queries.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/02_stacked_queries.py</url>
           <line>17</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/03. fast_food.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/03_fast_food.py</url>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/03. fast_food.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/03_fast_food.py</url>
           <line>7</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/03. fast_food.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/03_fast_food.py</url>
           <line>11</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/05. truck_tour.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/05_truck_tour.py</url>
           <line>12</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Exercise - Lists as Stacks and Queues/06. balanced_parentheses.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/06_balanced_parentheses.py</url>
           <line>8</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
@@ -295,89 +354,168 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/01. numbers.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/01_numbers.py</url>
           <line>4</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02. expression_evaluator.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02_expression_evaluator.py</url>
           <line>4</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02. expression_evaluator.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02_expression_evaluator.py</url>
           <line>22</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02. expression_evaluator.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02_expression_evaluator.py</url>
           <line>7</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03. flattening_matrix.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03_flattening_matrix.py</url>
           <line>12</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. sum _matrix_columns.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04_sum _matrix_columns.py</url>
           <line>7</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04. sum _matrix_columns.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04_sum _matrix_columns.py</url>
           <line>11</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07. square_with_maximum_sum.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07_square_with_maximum_sum.py</url>
           <line>5</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07. square_with_maximum_sum.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07_square_with_maximum_sum.py</url>
           <line>9</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07. square_with_maximum_sum.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07_square_with_maximum_sum.py</url>
           <line>1</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/03. 2x2_squares_in_matrix.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/03_2x2_squares_in_matrix.py</url>
           <line>7</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/04. maximal_sum.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/04_maximal_sum.py</url>
           <line>9</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/05. matrix_of_palindromes.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/05_matrix_of_palindromes.py</url>
           <line>6</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/06. matrix_shuffling.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/06_matrix_shuffling.py</url>
           <line>7</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07. Snake Moves.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07_Snake Moves.py</url>
           <line>4</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07. Snake Moves.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07_Snake Moves.py</url>
           <line>8</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/bomb.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/treasure.py</url>
           <line>17</line>
           <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/01_flatten Lists.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/ex.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/ex.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/ex.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/01_multiplication_function.py</url>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/01_multiplication_function.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/04_numbers_filter.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/06_function_executor.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/08_age_assignment.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/04_easter_bunny.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/04_easter_bunny.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/04_easter_bunny.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/07_present_delivery.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/07_present_delivery.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/05_alice_in_wonderland.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/07_present_delivery.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

@@ -1,6 +1,7 @@
-matrix = [[2, 5, 7], [3, 3, 3]]
+matrix = [[''] * 5]
 
-print(matrix)
-[print(*x) for x in matrix] # разпакетиране на матрица
+[print(*x) for x in matrix]  # разпакетиране на матрица
 
+matrix[0][1] = 'd'
 
+[print(*x) for x in matrix]
