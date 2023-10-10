@@ -5,210 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/01. jennys_secret_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/01_jennys_secret_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/02. drink_something.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/02_drink_something.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/03. chat_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/03_chat_codes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/04. maximum_multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/04_maximum_multiple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/05. orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/05_orders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/06. string_pureness.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/06_string_pureness.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/07. double_char.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/07_double_char.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/08. how_much_coffee_do_you_need.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/08_how_much_coffee_do_you_need.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/09. sorting_hat.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/09_sorting_hat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/10. mutate_strings✶.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/10_mutate_strings✶.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/11. easter_bread✶.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/11_easter_bread✶.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - Exercise/12. christmas_spirit✶.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_and_loops - Exercise/12_christmas_spirit✶.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - More Exercises/01. find_the_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_Syntax_conditional_statements_and_loops - More Exercises/01. find_the_largest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - More Exercises/02. find_the_capitals.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_Syntax_conditional_statements_and_loops - More Exercises/02. find_the_capitals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - More Exercises/03. wolf_in_sheeps_clothing.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_Syntax_conditional_statements_and_loops - More Exercises/03. wolf_in_sheeps_clothing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops - More Exercises/04. sum_of_a_beach.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_Syntax_conditional_statements_and_loops - More Exercises/04. sum_of_a_beach.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/02. largest_of_three_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_ and_loops - Lab/02_largest_of_three_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/03. word_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_ and_loops - Lab/03_word_reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/06. shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_ and_loops - Lab/06_shopping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/07. patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_ and_loops - Lab/07_patterns.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/1. number_definer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_ and_loops - Lab/01_number_definer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/4. even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_ and_loops - Lab/04_even_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Basic Syntax, Conditional Statements and Loops/5. number_between_1_ and_100.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/01_basic_syntax_conditional_statements_ and_loops - Lab/05_number_between_1_ and_100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Exercise/01. integer Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Exercise/01_integer_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Exercise/02. chars to String.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Exercise/02_chars_to_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Exercise/03. elevator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Exercise/03_elevator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Exercise/04. sum of Chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Exercise/04_sum_of_chars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Exercise/05. print Part of the ASCII Table.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Exercise/05_print_part_of_the_ASCII_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Exercise/06. triples of Latin Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Exercise/06_triples_of_latin_letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Exercise/07. water_overflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Exercise/07_water_overflow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Exercise/08. party_profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Exercise/08_party_profit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Exercise/09. snowballs.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Exercise/09_snowballs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Exercise/10. gladiator_expenses.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Exercise/10_gladiator_expenses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Lab/01. concat_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Lab/01_concat_names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Lab/02. Convert_meters_to_kilometers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Lab/02_convert_meters_to_kilometers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Lab/02. convert_meters_to_kilometers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Lab/03. pounds_to_dollars.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Lab/03_pounds_to_dollars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Lab/04. centuries_to_minutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Lab/04_centuries_to_minutes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Lab/05. special_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Lab/05_special_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - Lab/06. next_happy_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - Lab/06_next_happy_year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - More Exercises/01. exchange_integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - More Exercises/01_exchange_integers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - More Exercises/02. prime_number_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - More Exercises/02_prime_number_checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - More Exercises/03. decrypting_messages.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - More Exercises/03_decrypting_messages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Data Types and Variables - More Exercises/04. balanced_brackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/02_data_types_and_variables - More Exercises/04_balanced_brackets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Exercise/01. count_chars_in_a_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Exercise/01_count_chars_in_a_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Exercise/02. a_miner_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Exercise/02_a_miner_task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Exercise/03. capitals.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Exercise/03_capitals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Exercise/04. phonebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Exercise/04_phonebook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Exercise/05. legendary_farming.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Exercise/05_legendary_farming.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Exercise/06. orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Exercise/06_orders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Exercise/07. softuni_parking.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Exercise/07_softuni_parking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Exercise/08. courses.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Exercise/08_courses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Exercise/09. student_academy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Exercise/09_student_academy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Exercise/10. company_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Exercise/10_company_users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Exercise/11. force_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Exercise/11_force_book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/.idea/Dictionaries - Lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/.idea/Dictionaries - Lab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/01. bakery.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/01_bakery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/02. stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/02_stock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/03. statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/03_statistics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/04. students.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/04_students.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/06. odd_occurrences.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/06_odd_occurrences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/07. word_synonyms.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/07_word_synonyms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Dictionaries - Lab/5. ASCII_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/07_dictionaries - Lab/5_ASCII_values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/01. smallest_of_three_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/01_smallest_of_three_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/02. add_and_subtract.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/02_add_and_subtract.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/03. characters_in_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/03_characters_in_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/04. odd_and_even_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/04_odd_and_even_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/05. even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/05_even_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/06. sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/06_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/07. min_max_and_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/07_min_max_and_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/08. palindrome_integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/08_palindrome_integers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/09. password_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/09_password_validator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/10. perfect_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/10_perfect_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/11. loading_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/11_loading_bar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Exercise/12. factorial_division.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Exercise/12_factorial_division.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Lab/01. absolute_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Lab/01_absolute_values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Lab/02. grades.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Lab/02_grades.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Lab/03. calculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Lab/03_calculations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Lab/04. repeat_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Lab/04_repeat_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Lab/05. orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Lab/05_orders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Lab/06. calculate_rectangle_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Lab/06_calculate_rectangle_area.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - Lab/07. rounding.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - Lab/07_rounding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - More Exercises/01. data_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - More Exercises/01_data_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - More Exercises/02. center_point.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - More Exercises/02_center_point.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Functions - More Exercises/3. longer_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/04_functions - More Exercises/3_longer_line.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Exercise/01. which_are_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Exercise/01_which_are_in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Exercise/02. next_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Exercise/02_next_version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Exercise/03. word_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Exercise/03_word_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Exercise/04. number_classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Exercise/04_number_classification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Exercise/05. office_chairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Exercise/05_office_chairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Exercise/06. electron_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Exercise/06_electron_distribution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Exercise/07. group_ of_10s.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Exercise/07_group_ of_10s.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Exercise/08. decipher_this!.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Exercise/08_decipher_this!.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Exercise/09. anonymous_threat.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Exercise/09_anonymous_threat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Exercise/10.pokemon_dont_go.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Exercise/10_pokemon_dont_go.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Exercise/11. softuni_course_planning.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Exercise/11_softuni_course_planning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Lab/01.no_vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Lab/01_no_vowels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Lab/02. trains.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Lab/02_trains.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Lab/03. todo_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Lab/03_todo_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Lab/04. palindrome_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Lab/04_palindrome_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Lab/05. sorting_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Lab/05_sorting_names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Lab/06. even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Lab/06_even_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - Lab/07. the_office.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - Lab/07_the_office.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - More Exercises/01. social_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - More Exercises/01_social_distribution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - More Exercises/02. take_skip_rope.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - More Exercises/02_take_skip_rope.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - More Exercises/03. Kate.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - More Exercises/03_Kate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - More Exercises/03. kates_way_out.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - More Exercises/03. kates_way_out.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - More Exercises/04. battle_ships.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - More Exercises/04_battle_ships.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Advanced - More Exercises/05. dots.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/05_lists_advanced - More Exercises/05_dots.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Exercise/01. invert_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Exercise/01_invert_values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Exercise/02. multiples_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Exercise/02_multiples_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Exercise/03. football_cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Exercise/03_football_cards.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Exercise/04. number_beggars.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Exercise/04_number_beggars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Exercise/05. faro_shuffle.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Exercise/05_faro_shuffle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Exercise/06. survival_of_the_biggest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Exercise/06_survival_of_the_biggest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Exercise/07. easter_gifts.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Exercise/07_easter_gifts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Exercise/08. seize_the_fire.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Exercise/08_seize_the_fire.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Exercise/09. hello_france.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Exercise/09_hello_france.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Exercise/10. bread_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Exercise/10_bread_factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Lab/01. strange_zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Lab/01_strange_zoo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Lab/02. courses.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Lab/02_courses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Lab/03. list_statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Lab/03_list_statistics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Lab/04. search.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Lab/04_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Lists Basics - Lab/05. numbers_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/03_lists_basics - Lab/05_numbers_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Exercise/01. storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Exercise/01_storage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Exercise/02. weapon.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Exercise/02_weapon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Exercise/03. catalogue.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Exercise/03_catalogue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Exercise/04. town.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Exercise/04_town.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Exercise/05. class.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Exercise/05_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Exercise/06. inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Exercise/06_inventory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Exercise/07. articles.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Exercise/07_articles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Exercise/08. vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Exercise/08_vehicle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Exercise/09. movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Exercise/09_movie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Lab/01. comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Lab/01_comment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Lab/02. party.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Lab/02_party.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Lab/03. email.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Lab/03_email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Lab/04. zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Lab/04_zoo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Objects and Classes - Lab/05. circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/06_objects_and_classes - Lab/05_circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/01. String Manipulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/01_string_manipulator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/02. Encrypting Password.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/02_encrypting_password.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/03. Followers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/03_followers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam - 30 July 2023/03. followers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/01. activation_keys.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/01_activation_keys.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/01. password_reset.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/01_password_reset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/01. secret_chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/01_secret_chat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/01. the_imitation_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/01_the_imitation_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/01. world_tour.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/01_world_tour.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02. ad_astra.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02_ad_astra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02. destination_mapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02_destination_mapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02. emoji_detector - 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02_emoji_detector - 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02. emoji_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02_emoji_detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02. fancy_barcodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02_fancy_barcodes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02. mirror_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/02_mirror_words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/03. heroes_of_code_and_logic_VII.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/03_heroes_of_code_and_logic_VII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/03. need_for_speed_III.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/03_need_for_speed_III.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/03. p!rates.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/03_p!rates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/03. plant_discovery.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/03_plant_discovery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/03. the_pianist.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Final Exam Retake/03_the_pianist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/01. counter_strike.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/01_counter_strike.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/01. guinea_pig.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/01_guinea_pig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/01. softuni_reception.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/01_softuni_reception.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02.  array_modifier_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02_array_modifier_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02. array_modifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02_array_modifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02. shoot_for_the_win.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02_shoot_for_the_win.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02. shopping_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02_shopping_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02. the_lift.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02_the_lift.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02. treasure_hunt.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/02_treasure_hunt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/03. heart_delivery.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/03_heart_delivery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/03. inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/03_inventory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/03. memory_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/03_memory_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/03. moving_target.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/03_moving_target.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/03. numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/03_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/04. mu_online.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/04_mu_online.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/05. bonus_scoring_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/Programming Fundamentals Mid Exam/05_bonus_scoring_system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Regular Expressions - Exercise/01. capture_the_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/09_regular_expressions - Exercise/01_capture_the_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Regular Expressions - Exercise/02. find_variable_names_in_sentences.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/09_regular_expressions - Exercise/02_find_variable_names_in_sentences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Regular Expressions - Exercise/03. find_occurrences_of_word_in_sentence.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/09_regular_expressions - Exercise/03_ find_occurrences_of_word_in_sentence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Regular Expressions - Exercise/04. extract_emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/09_regular_expressions - Exercise/04_extract_emails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Regular Expressions - Exercise/05. furniture.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/09_regular_expressions - Exercise/05_furniture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Regular Expressions - Exercise/06. extract_the_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/09_regular_expressions - Exercise/06_extract_the_links.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Regular Expressions - Lab/01. match_full_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/09_regular_expressions - Lab/01_match_full_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Regular Expressions - Lab/02. match_phone_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/09_regular_expressions - Lab/02_match_phone_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Regular Expressions - Lab/03. match_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/09_regular_expressions - Lab/03_match_dates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Regular Expressions - Lab/04. match_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/09_regular_expressions - Lab/04_match_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Regular Expressions - More Exercises/01. race.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/09_regular_expressions - More Exercises/01_race.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Exercise/01. valid_usernames.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Exercise/01_valid_usernames.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Exercise/02. character_multiplier.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Exercise/02_character_multiplier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Exercise/03. extract_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Exercise/03_extract_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Exercise/04. caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Exercise/04_caesar_cipher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Exercise/06. replace_repeating_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Exercise/06_replace_repeating_chars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Exercise/07. string_explosion.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Exercise/07_string_explosion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Exercise/08. letters_change_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Exercise/08_letters_change_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Exercise/09. rage_quit.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Exercise/09_rage_quit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Exercise/10. winning_ticket.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Exercise/10_winning_ticket.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Exercise/5. emoticon_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Exercise/05_emoticon_finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Lab/01. reverse_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Lab/01_reverse_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Lab/02. repeat_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Lab/02_repeat_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Lab/03. substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Lab/03_substring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Lab/04. text_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Lab/04_text_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ python-fundamentals-05-2023/Text Processing - Lab/05. digits_letters_and_other.py" beforeDir="false" afterPath="$PROJECT_DIR$/ python-fundamentals-05-2023/08_text_processing - Lab/05_digits_letters_and_other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/06.10.2023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/workshop/_tic_tac_toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/workshop/tk.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -276,7 +75,7 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02_email_validator">
+  <component name="RunManager" selected="Python.Workshop">
     <configuration name="02_email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,6 +89,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/06_error_handling/02_email_validator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Workshop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advenced-09-2023\Workshop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,27 +139,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="even_lines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/even_lines" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/even_lines/even_lines.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="file_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -361,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="line_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="guess_word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/line_numbers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_project_basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/line_numbers/line_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_project_basics/guess_word.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Workshop" />
+        <item itemvalue="Python.guess_word" />
         <item itemvalue="Python.02_email_validator" />
         <item itemvalue="Python.directory_traversal" />
         <item itemvalue="Python.file_manipulator" />
-        <item itemvalue="Python.line_numbers" />
-        <item itemvalue="Python.even_lines" />
       </list>
     </recent_temporary>
   </component>
