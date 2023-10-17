@@ -10,7 +10,8 @@ def add_songs(*args):
 
     for name, lyrics in collection.items():
         result += f"- {name}\n"
-        result += '\n'.join(lyrics) + '\n'
+        if lyrics: # не съм се сетил, че мога да махна празния ред, ако напиша if lyrics:
+            result += '\n'.join(lyrics) + '\n'
     return result
 
 print(add_songs(
@@ -28,4 +29,4 @@ print(add_songs(
      ["Every time that I look in the mirror"]),
 ))
 
-# 90.0 %
+# 90.0 % !!!

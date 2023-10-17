@@ -5,22 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_mouse_in_the_kitchen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_enrollment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_grocery_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_hourly_forecast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_movie_organizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel - 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_shopping_cart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_springtime-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_springtime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_student_credits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_words_sorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_CRUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_martian_explorer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_rally_racing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/01_monster_extermination.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/01_monster_extermination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_words_sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_words_sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +27,12 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -86,8 +83,50 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03_words_sorting">
-    <configuration name="03. Hourly Forecast_Author's Solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02_rally_racing">
+    <configuration name="02_martian_explorer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_martian_explorer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_rally_racing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_rally_racing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03. Song Creator_Author's Solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python_Advenced_exam/03. Hourly Forecast_Author's Solution.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python_Advenced_exam/03. Song Creator_Author's Solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_enrollment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_add_songs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_enrollment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_hourly_forecast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,49 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_hourly_forecast.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03_springtime-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_springtime-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03_words_sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_words_sorting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03_words_sorting" />
-        <item itemvalue="Python.03. Hourly Forecast_Author's Solution" />
-        <item itemvalue="Python.03_hourly_forecast" />
-        <item itemvalue="Python.03_enrollment" />
-        <item itemvalue="Python.03_springtime-2" />
+        <item itemvalue="Python.02_rally_racing" />
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.02_martian_explorer" />
+        <item itemvalue="Python.03. Song Creator_Author's Solution" />
+        <item itemvalue="Python.03_add_songs" />
       </list>
     </recent_temporary>
   </component>
@@ -215,391 +212,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/03_supermarket.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/04_water_dispenser.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05_hot_potato.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05_hot_potato.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/05_hot_potato.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/01_reverse_strings.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Lab/02_matching_parentheses.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/01_reverse_numbers.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/02_stacked_queries.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/02_stacked_queries.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/03_fast_food.py</url>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/03_fast_food.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/03_fast_food.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/05_truck_tour.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Lists as Stacks and Queues - Exercise/06_balanced_parentheses.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/01. count_same_values.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/02. students_grades.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/02. students_grades.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Lab/04. parking_lot.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/01_numbers.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02_expression_evaluator.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02_expression_evaluator.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Stacks, Queues, Tuples and Sets - Exercise/02_expression_evaluator.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/03_flattening_matrix.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04_sum _matrix_columns.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/04_sum _matrix_columns.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07_square_with_maximum_sum.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07_square_with_maximum_sum.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Lab/07_square_with_maximum_sum.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/03_2x2_squares_in_matrix.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/04_maximal_sum.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/05_matrix_of_palindromes.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/06_matrix_shuffling.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07_Snake Moves.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/07_Snake Moves.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 1/treasure.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/01_flatten Lists.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/ex.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/ex.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/ex.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/01_multiplication_function.py</url>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Lab/01_multiplication_function.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/04_numbers_filter.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/06_function_executor.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Functions Advanced - Exercise/08_age_assignment.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/04_easter_bunny.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/04_easter_bunny.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/04_easter_bunny.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/07_present_delivery.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/07_present_delivery.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/05_alice_in_wonderland.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Multidimensional Lists - Exercise 2/07_present_delivery.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise/03_periodic_table.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise/04_count_symbols.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise/04_count_symbols.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advanced-09-2023/Tuples and Sets - Exercise/06. Battle of Names.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/06_error_handling/01_numbers_dictionary.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/even_lines/even_lines.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/file_manipulator/file_manipulator.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/file_manipulator/file_manipulator.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/directory_traversal/directory_traversal.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6540.49029/monster_extermination_problem_1_authors_solution.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/01_monster_extermination.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_movie_organizer.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel.py</url>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel - 2.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_grocery_list.py</url>
-          <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="104" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="105" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_student_credits.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/Python_Advenced_exam/03. Shopping Cart_Author's Solution.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/Python_Advenced_exam/03. Shopping Cart_Author's Solution.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="121" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/Python_Advenced_exam/03. Shopping Cart_Author's Solution.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="122" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_springtime.py</url>
-          <option name="timeStamp" value="124" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_enrollment.py</url>
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_hourly_forecast.py</url>
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/Python_Advenced_exam/03. Hourly Forecast_Author's Solution.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="128" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
