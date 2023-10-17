@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_mouse_in_the_kitchen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_enrollment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_grocery_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_hourly_forecast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_movie_organizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel - 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_springtime-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_springtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_student_credits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_words_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/Workshop.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advenced-09-2023/08_workshop/workshop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/workshop/_tic_tac_toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advenced-09-2023/08_workshop/tic_tac_toe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/workshop/tk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/01_monster_extermination.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/01_monster_extermination.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +86,8 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.workshop">
-    <configuration name="02_email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03_words_sorting">
+    <configuration name="03. Hourly Forecast_Author's Solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/06_error_handling" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Python_Advenced_exam" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/06_error_handling/02_email_validator.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python_Advenced_exam/03. Hourly Forecast_Author's Solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="directory_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_enrollment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/directory_traversal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/directory_traversal/directory_traversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_enrollment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_hourly_forecast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/file_manipulator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/file_manipulator/file_manipulator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_hourly_forecast.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="guess_word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_springtime-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_project_basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_project_basics/guess_word.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_springtime-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="workshop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_words_sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advenced-09-2023\08_workshop\workshop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_words_sorting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.workshop" />
-        <item itemvalue="Python.guess_word" />
-        <item itemvalue="Python.02_email_validator" />
-        <item itemvalue="Python.directory_traversal" />
-        <item itemvalue="Python.file_manipulator" />
+        <item itemvalue="Python.03_words_sorting" />
+        <item itemvalue="Python.03. Hourly Forecast_Author's Solution" />
+        <item itemvalue="Python.03_hourly_forecast" />
+        <item itemvalue="Python.03_enrollment" />
+        <item itemvalue="Python.03_springtime-2" />
       </list>
     </recent_temporary>
   </component>
@@ -506,6 +518,86 @@
           <url>file://$PROJECT_DIR$/python-advenced-09-2023/07_file_handling/directory_traversal/directory_traversal.py</url>
           <line>21</line>
           <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6540.49029/monster_extermination_problem_1_authors_solution.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/01_monster_extermination.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_movie_organizer.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel.py</url>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel - 2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_grocery_list.py</url>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_student_credits.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Python_Advenced_exam/03. Shopping Cart_Author's Solution.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Python_Advenced_exam/03. Shopping Cart_Author's Solution.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Python_Advenced_exam/03. Shopping Cart_Author's Solution.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_springtime.py</url>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_enrollment.py</url>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_hourly_forecast.py</url>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Python_Advenced_exam/03. Hourly Forecast_Author's Solution.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="128" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
