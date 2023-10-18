@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_CRUD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_martian_explorer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_rally_racing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_exit_founder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_navy_battle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_words_sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_words_sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_rally_racing.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_rally_racing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +81,28 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02_rally_racing">
+  <component name="RunManager" selected="Python.02_exit_founder">
+    <configuration name="02_exit_founder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_exit_founder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="02_martian_explorer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,6 +124,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="02_navy_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_navy_battle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="02_rally_racing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,48 +158,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_rally_racing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03. Song Creator_Author's Solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Python_Advenced_exam" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python_Advenced_exam/03. Song Creator_Author's Solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03_add_songs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02_rally_racing" />
+        <item itemvalue="Python.02_exit_founder" />
         <item itemvalue="Python.ex" />
+        <item itemvalue="Python.02_navy_battle" />
+        <item itemvalue="Python.02_rally_racing" />
         <item itemvalue="Python.02_martian_explorer" />
-        <item itemvalue="Python.03. Song Creator_Author's Solution" />
-        <item itemvalue="Python.03_add_songs" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +210,48 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_rally_racing.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_navy_battle.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_navy_battle.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_navy_battle.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_navy_battle.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_navy_battle.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_exit_founder.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_exit_founder.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
