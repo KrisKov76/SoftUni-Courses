@@ -5,29 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/opit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Apocalypse Preparation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Christmas Elves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Climb The Peaks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Collecting Eggs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Energy Drinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Flowers Finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Monster Extermination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Ramen Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Rubber Duck Debuggers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Stewards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Temple of Doom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/02. Blind Man's Buff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/02. CRUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/02. Delivery Boy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/02. Exit Founder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/02. Martian Explorer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/02. Mouse In The Kitchen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/02. Navy Battle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/02. North Pole Challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/02. Rally Racing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/02. The Squirrel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/03. Enrollment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/03. Grocery List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/03. Hourly Forecast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/03. Movie Organizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/03. Pets Hotel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/03. Shopping Cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/03. Song Creator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/03. Springtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/03. Student Credits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/03. Words Sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/01_monster_extermination.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_CRUD.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_delivery_boy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_exit_founder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_martian_explorer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_mouse_in_the_kitchen.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_navy_battle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_rally_racing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_add_songs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_enrollment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_grocery_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_hourly_forecast.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_movie_organizer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel - 2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_pets_hotel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_shopping_cart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_springtime-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_springtime.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_student_credits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/03_words_sorting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/opit.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +48,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -82,6 +94,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -99,8 +112,8 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_christmas_elves (1)">
-    <configuration name="01_christmas_elves (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01. Climb The Peaks">
+    <configuration name="01. Climb The Peaks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/01_christmas_elves.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Climb The Peaks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_christmas_elves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01. Rubber Duck Debuggers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/01_christmas_elves.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Rubber Duck Debuggers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Pawn Wars_Author's Solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01. Stewards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Python_Advenced_exam" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python_Advenced_exam/02. Pawn Wars_Author's Solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Stewards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_pawn_wars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01. Temple of Doom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced - Exams/02_pawn_wars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Temple of Doom.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="opit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/opit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01_christmas_elves (1)" />
-        <item itemvalue="Python.opit" />
-        <item itemvalue="Python.01_christmas_elves" />
-        <item itemvalue="Python.02. Pawn Wars_Author's Solution" />
-        <item itemvalue="Python.02_pawn_wars" />
+        <item itemvalue="Python.01. Climb The Peaks" />
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.01. Rubber Duck Debuggers" />
+        <item itemvalue="Python.01. Stewards" />
+        <item itemvalue="Python.01. Temple of Doom" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +238,17 @@
       <updated>1690746673506</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -293,6 +317,56 @@
           <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/01_christmas_elves.py</url>
           <line>9</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/01. Flowers Finder_Author's Solution 1.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/01. Flowers Finder_Author's Solution 1.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/01. Flowers Finder_Author's Solution 2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/01. Flowers Finder_Author's Solution 2.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Flowers Finder.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Collecting Eggs.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Ramen Shop.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Rubber Duck Debuggers.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/ex.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Climb The Peaks.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
