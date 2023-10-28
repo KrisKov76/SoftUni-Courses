@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps_in_ OOP - Lab/01_rhombus_of_stars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps_in_ OOP - Lab/02_scope_mess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +47,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2TJ24aTa1uUSfap2inv2iEyDfK2" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -223,67 +222,67 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_rally_racing.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_rally_racing.py</url>
           <line>22</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_navy_battle.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_navy_battle.py</url>
           <line>18</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_navy_battle.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_navy_battle.py</url>
           <line>13</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_navy_battle.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_navy_battle.py</url>
           <line>8</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_navy_battle.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_navy_battle.py</url>
           <line>20</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_navy_battle.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_navy_battle.py</url>
           <line>39</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_exit_founder.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_exit_founder.py</url>
           <line>2</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_delivery_boy.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_delivery_boy.py</url>
           <line>25</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_delivery_boy.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_delivery_boy.py</url>
           <line>38</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_delivery_boy.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_delivery_boy.py</url>
           <line>1</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_north_pole_challenge.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_north_pole_challenge.py</url>
           <line>25</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/02_the_squirrel.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/02_the_squirrel.py</url>
           <line>29</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/01_christmas_elves - 1/01_christmas_elves.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/01_christmas_elves - 1/01_christmas_elves.py</url>
           <line>9</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
@@ -308,32 +307,32 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Flowers Finder.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/00_python_advanced_exam/01. Flowers Finder.py</url>
           <line>9</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Collecting Eggs.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/00_python_advanced_exam/01. Collecting Eggs.py</url>
           <line>7</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Ramen Shop.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/00_python_advanced_exam/01. Ramen Shop.py</url>
           <line>5</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Rubber Duck Debuggers.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/00_python_advanced_exam/01. Rubber Duck Debuggers.py</url>
           <line>10</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/01. Climb The Peaks.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/00_python_advanced_exam/01. Climb The Peaks.py</url>
           <line>10</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-advenced-09-2023/python_advanced_exam - 22.10.2023/second_.py</url>
+          <url>file://$PROJECT_DIR$/python-advanced-09-2023/python_advanced_exam - 22.10.2023/second_.py</url>
           <line>23</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
