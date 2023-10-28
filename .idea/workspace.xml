@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/python_advanced_exam - 22.10.2023/first_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/python_advanced_exam - 22.10.2023/second_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advenced-09-2023/python_advanced_exam - 22.10.2023/third_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps_in_ OOP - Lab/01_rhombus_of_stars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/first_steps_in_ OOP - Lab/02_scope_mess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/ex.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,7 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.second_">
+  <component name="RunManager" selected="Python.01_rhombus_of_stars">
     <configuration name="01. Climb The Peaks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01_rhombus_of_stars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/first_steps_in_ OOP - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-advenced-09-2023/00_python_advanced_exam/ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/first_steps_in_ OOP - Lab/01_rhombus_of_stars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_rhombus_of_stars" />
         <item itemvalue="Python.second_" />
         <item itemvalue="Python.first_" />
         <item itemvalue="Python.third_" />
         <item itemvalue="Python.01. Climb The Peaks" />
-        <item itemvalue="Python.ex" />
       </list>
     </recent_temporary>
   </component>
