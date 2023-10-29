@@ -9,3 +9,4 @@ for index in range(len(expression)):
         start_index = stack.pop()
         last_index = index + 1
         print(expression[start_index:last_index])
+
