@@ -5,25 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab/01_vehicle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/01_vet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/02_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/03_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/04_pizza_delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/05_to-do_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/06_guild_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/07_spoopify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/08_library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab/03_circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab/04_glass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab/05_smartphone.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_ OOP - Lab/01_rhombus_of_stars.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_ OOP - Lab/01_rhombus_of_stars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_ OOP - Lab/02_scope_mess.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_ OOP - Lab/02_scope_mess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_ OOP - Lab/03_class_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_ OOP - Lab/03_class_book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_ OOP - Lab/04_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_ OOP - Lab/04_car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_ OOP - Lab/05_music.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_ OOP - Lab/05_music.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_ OOP - Lab/ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_ OOP - Lab/ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/01_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_OOP - Exercise/01_shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/02_hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_OOP - Exercise/02_hero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/03_employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_OOP - Exercise/03_employee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/04_cup.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_OOP - Exercise/04_cup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/05_flower.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_OOP - Exercise/05_flower.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/06_steam_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_OOP - Exercise/06_steam_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/07_programmer.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_OOP - Exercise/07_programmer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/08_pokemon_battle/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_OOP - Exercise/08_pokemon_battle/project.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/08_pokemon_battle/project/pokemon.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_OOP - Exercise/08_pokemon_battle/project/pokemon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/08_pokemon_battle/project/trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_OOP - Exercise/08_pokemon_battle/project/trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab/02_point.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab/02_point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_advanced_09_2023/python_advanced_exam - 22.10.2023/second_.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_advanced_09_2023/python_advanced_exam - 22.10.2023/second_.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,8 +95,29 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_vehicle">
-    <configuration name="01_vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01_vet">
+    <configuration name="01_vet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/01_vet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab/01_vehicle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab/03_circle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_flower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_glass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/05_flower.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab/04_glass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_steam_user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_smartphone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/06_steam_user.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab/05_smartphone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_programmer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="second_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,32 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_advanced_09_2023/python_advanced_exam - 22.10.2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/07_programmer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/08_pokemon_battle/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/first_steps_in_OOP - Exercise/08_pokemon_battle/project/trainer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_advanced_09_2023/python_advanced_exam - 22.10.2023/second_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01_vehicle" />
-        <item itemvalue="Python.trainer" />
-        <item itemvalue="Python.07_programmer" />
-        <item itemvalue="Python.06_steam_user" />
-        <item itemvalue="Python.05_flower" />
+        <item itemvalue="Python.01_vet" />
+        <item itemvalue="Python.05_smartphone" />
+        <item itemvalue="Python.04_glass" />
+        <item itemvalue="Python.second_" />
+        <item itemvalue="Python.03_circle" />
       </list>
     </recent_temporary>
   </component>
@@ -390,6 +385,11 @@
           <url>file://$PROJECT_DIR$/python_OOP_10_2023/01_first_steps_in_OOP - Exercise/08_pokemon_battle/project/trainer.py</url>
           <line>23</line>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Lab/02_point.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
