@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/06_guild_system/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/06_guild_system/project/guild.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/06_guild_system/project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/08_libraty/project/library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/08_libraty/project/registration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/08_libraty/project/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/04_pizza_delivery.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/04_pizza_delivery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/06_guild_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/06_guild_system/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/08_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/08_libraty/project/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
