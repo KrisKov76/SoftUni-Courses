@@ -5,18 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/05_to_do_list/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/05_to_do_list/project/section.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/05_to_do_list/project/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/07_spoopify/project/album.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/07_spoopify/project/band.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/07_spoopify/project/song.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/01_food/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/01_food/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/01_food/project/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/01_food/project/fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/02_single_inheritance/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/02_single_inheritance/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/02_single_inheritance/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/02_single_inheritance/project/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/03_multiple_inheritance/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/03_multiple_inheritance/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/03_multiple_inheritance/project/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/03_multiple_inheritance/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/03_multiple_inheritance/project/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/03_multiple_inheritance/project/teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/04_multilevel_inheritance/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/04_multilevel_inheritance/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/04_multilevel_inheritance/project/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/04_multilevel_inheritance/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/04_multilevel_inheritance/project/sports_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/04_multilevel_inheritance/project/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/05_hierarchical_inheritance/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/05_hierarchical_inheritance/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/05_hierarchical_inheritance/project/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/05_hierarchical_inheritance/project/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/05_hierarchical_inheritance/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/06_stack_of_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/03_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/03_account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/05_to-do_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/05_to_do_list/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/07_spoopify.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/07_spoopify/project/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +111,8 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\my_project_fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.band">
-    <configuration name="album" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (3)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/07_spoopify/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/03_multiple_inheritance/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/07_spoopify/project/album.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/03_multiple_inheritance/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="band" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/07_spoopify/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/04_multilevel_inheritance/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/07_spoopify/project/band.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/04_multilevel_inheritance/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/05_hierarchical_inheritance/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/05_hierarchical_inheritance/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="section" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/05_to_do_list/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/02_single_inheritance/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/05_to_do_list/project/section.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/02_single_inheritance/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teacher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/05_to_do_list/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/03_multiple_inheritance/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/02_classes_and_objects - Exercise/05_to_do_list/project/task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/03_inheritance - Lab/03_multiple_inheritance/project/teacher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.band" />
-        <item itemvalue="Python.album" />
-        <item itemvalue="Python.section" />
-        <item itemvalue="Python.ex" />
-        <item itemvalue="Python.task" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.teacher" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
