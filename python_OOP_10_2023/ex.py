@@ -1,4 +1,21 @@
-songs = [("Running in the 90s", 3.45, False), ("Around the World", 2.34, False) ]
+class Car:
+    def __init__(self, max_speed: int):
+        self.max_speed = max_speed
+
+    def drive(self):
+        print('driving max speed ' + str(self.max_speed))
+
+    @property
+    def max_speed(self):
+        return self.__max_speed
+
+    @max_speed.setter
+    def max_speed(self, value):
+        if value > 447:
+            value = 447
+        self.__max_speed = value
 
 
-songs = [x for x in songs]
+red_car = Car(200)
+red_car.max_speed = 512  # changes the speed to 447
+red_car.drive()
