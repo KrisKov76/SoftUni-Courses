@@ -5,7 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Lab/05_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Lab/05_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/caretaker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/cheetah.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/keeper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/lion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/tiger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/vet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/02_pizza_maker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/02_pizza_maker/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/02_pizza_maker/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/02_pizza_maker/project/dough.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/02_pizza_maker/project/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/02_pizza_maker/project/topping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/03_football_team_generator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/03_football_team_generator/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/03_football_team_generator/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/03_football_team_generator/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/03_football_team_generator/project/team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/beverage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/beverage/beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/beverage/coffee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/beverage/cold_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/beverage/hot_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/beverage/tea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/food/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/food/cake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/food/dessert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/food/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/food/main_dish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/food/salmon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/food/soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/food/starter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/project/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +125,8 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advenced-09-2023\07_file_handling\even_lines" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_account">
-    <configuration name="02_mammal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,74 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Lab/02_mammal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03_profile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Lab/03_profile.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="04_email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Lab/04_email_validator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="05_account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Lab/05_account.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/animal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +155,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/04_restaurant/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/project/zoo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_account" />
-        <item itemvalue="Python.04_email_validator" />
-        <item itemvalue="Python.03_profile" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.zoo" />
         <item itemvalue="Python.ex" />
-        <item itemvalue="Python.02_mammal" />
+        <item itemvalue="Python.animal" />
+        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
