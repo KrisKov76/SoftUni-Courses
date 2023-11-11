@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/01_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/02_shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/03_integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/hotel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/room.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/hotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/hotel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/room.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/room.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,28 +88,7 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advenced-09-2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04_hotel_rooms">
-    <configuration name="01_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/01_calculator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="02_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +160,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Exercise/01_wild_cat_zoo/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="room" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/room.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.room" />
         <item itemvalue="Python.04_hotel_rooms" />
         <item itemvalue="Python.03_integer" />
         <item itemvalue="Python.02_shop" />
-        <item itemvalue="Python.01_calculator" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>

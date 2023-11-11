@@ -1,5 +1,5 @@
 class Room:
-    def __init__(self, number, capacity):
+    def __init__(self, number:str, capacity):
         self.number = number
         self.capacity = capacity
         self.guests = 0
