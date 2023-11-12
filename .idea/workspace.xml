@@ -5,11 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/01_photo_album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/02_movie_world/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/02_movie_world/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/02_movie_world/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/02_movie_world/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/02_movie_world/project/dvd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/02_movie_world/project/movie_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/03_document_management/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/03_document_management/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/03_document_management/project/category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/03_document_management/project/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/03_document_management/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/03_document_management/project/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/03_document_management/project/topic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/04_gym/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/04_gym/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/04_gym/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/04_gym/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/04_gym/project/equipment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/04_gym/project/exercise_plan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/04_gym/project/gym.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/04_gym/project/subscription.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/04_gym/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/01_Robots/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/01_Robots/robots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/02_image_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/hotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/hotel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/room.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/room.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/ex.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -81,15 +106,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\06_polymorphism_and_abstraction - Lab" />
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\05_static_and_class+methods - Lab\04_hotel_rooms\project" />
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\03_inheritance_Exercise\02_zoo" />
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\03_inheritance_Exercise\01_person" />
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\03_inheritance_Exercise\01_person\project" />
-      <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python-advenced-09-2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="02_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02_image_area">
+    <configuration name="02_image_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/02_shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/02_image_area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_integer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/03_integer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_hotel_rooms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/03_document_management/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/03_document_management/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/04_gym" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class_methods - Exercise/04_gym/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="room" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="robots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,11 +206,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/01_Robots" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/04_hotel_rooms/project/room.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/01_Robots/robots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.room" />
-        <item itemvalue="Python.04_hotel_rooms" />
-        <item itemvalue="Python.03_integer" />
-        <item itemvalue="Python.02_shop" />
+        <item itemvalue="Python.02_image_area" />
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.robots" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -423,11 +448,6 @@
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python_OOP_10_2023/ex.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/python_OOP_10_2023/04_encapsulation - Lab/03_profile.py</url>
           <line>36</line>
           <option name="timeStamp" value="79" />
@@ -456,6 +476,21 @@
           <url>file://$PROJECT_DIR$/python_OOP_10_2023/05_static_and_class+methods - Lab/02_shop.py</url>
           <line>23</line>
           <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/01_Robots/robots.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/01_Robots/robots.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/01_Robots/robots.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="89" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
