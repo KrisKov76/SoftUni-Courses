@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/03_playing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/04_shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/01_vehicles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/02_groups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project/animals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project/animals/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project/animals/birds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project/animals/mammals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/06_formula_1_manager/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/06_formula_1_manager/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/06_formula_1_manager/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/06_formula_1_manager/project/f1_season_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/06_formula_1_manager/project/formula_teams/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/06_formula_1_manager/project/formula_teams/formula_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/06_formula_1_manager/project/formula_teams/mercedes_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/06_formula_1_manager/project/formula_teams/red_bull_team.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +103,8 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\03_inheritance_Exercise\01_person\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04_shapes">
-    <configuration name="02_image_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="01_vehicles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/02_image_area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/01_vehicles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_playing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_groups" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/03_playing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/02_groups.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="robots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,11 +196,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/01_Robots" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/06_formula_1_manager" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/01_Robots/robots.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/06_formula_1_manager/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.02_groups" />
+        <item itemvalue="Python.01_vehicles" />
         <item itemvalue="Python.04_shapes" />
-        <item itemvalue="Python.03_playing" />
-        <item itemvalue="Python.02_image_area" />
-        <item itemvalue="Python.ex" />
-        <item itemvalue="Python.robots" />
       </list>
     </recent_temporary>
   </component>
@@ -475,6 +491,21 @@
           <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Lab/03_playing.py</url>
           <line>12</line>
           <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/01_vehicles.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/02_groups.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project/main.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
