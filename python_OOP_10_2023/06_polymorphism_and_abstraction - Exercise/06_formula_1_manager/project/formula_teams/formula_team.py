@@ -20,8 +20,9 @@ class FormulaTeam(ABC):
     @abstractmethod
     def get_team_data():
         pass
+
     def calculate_revenue_after_race(self, race_pos: int):
-        expenses,sponsors = self.get_team_data()
+        expenses, sponsors = self.get_team_data()
         revenue = 0
 
         for positions in sponsors.values():
@@ -33,5 +34,3 @@ class FormulaTeam(ABC):
         revenue -= expenses
         self.budget += revenue
         return f"The revenue after the race is {revenue}$. Current budget {self.budget}$"
-    
-

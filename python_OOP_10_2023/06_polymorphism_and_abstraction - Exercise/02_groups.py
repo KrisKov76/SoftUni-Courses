@@ -30,6 +30,7 @@ class Group:
     def __getitem__(self, index):
         return f"Person {index}: {self.people[index]}"
 
+
 p0 = Person('Aliko', 'Dangote')
 p1 = Person('Bill', 'Gates')
 p2 = Person('Warren', 'Buffet')
@@ -46,4 +47,3 @@ print(third_group[0])
 
 for person in first_group:
     print(person)
-
