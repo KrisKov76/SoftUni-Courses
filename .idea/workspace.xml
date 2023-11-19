@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID/02_example_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/03_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/05_animals/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/05_animals/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/05_animals/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/05_animals/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/05_animals/project/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/05_animals/project/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/05_animals/project/kitten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/05_animals/project/tomcat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/opit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/01_custom_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/02_reverse_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/03_vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/04_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/05_generator_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/06_reverse_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,8 +102,8 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\03_inheritance_Exercise\01_person" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02_example_2">
-    <configuration name="01_SRP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06_reverse_string">
+    <configuration name="02_reverse_iter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\07_SOLID\01_SRP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/02_reverse_iter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_SRP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_vowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\07_SOLID\01_SRP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/03_vowels.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_OCP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_squares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID/02_OCP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/04_squares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_generator_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\07_SOLID\02_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/05_generator_range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_example_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_reverse_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,32 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID/02_example_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/04_wild_farm/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/06_reverse_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02_example_2" />
-        <item itemvalue="Python.02_OCP" />
-        <item itemvalue="Python.02_example" />
-        <item itemvalue="Python.01_SRP" />
-        <item itemvalue="Python.01_SRP" />
+        <item itemvalue="Python.06_reverse_string" />
+        <item itemvalue="Python.05_generator_range" />
+        <item itemvalue="Python.04_squares" />
+        <item itemvalue="Python.03_vowels" />
+        <item itemvalue="Python.02_reverse_iter" />
       </list>
     </recent_temporary>
   </component>
@@ -515,6 +510,26 @@
           <url>file://$PROJECT_DIR$/python_OOP_10_2023/07_SOLID/02_example.py</url>
           <line>19</line>
           <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/03_account.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/03_account.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/03_account.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/05_animals/main.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="108" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
