@@ -5,15 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Exercise/fixed/01_workers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Exercise/fixed/02_workers_updated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Exercise/fixed/03_prisoner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Exercise/fixed/04_shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Exercise/fixed/05_emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/01_take_skip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/02_dictionary_iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/03_countdown_Iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/04_sequence_repeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/05_take_halves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/06_fibonacci_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/07_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/08_prime_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/09_possible_permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators/01_number_increment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators/02_vowel_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators/03_even_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators/04_multiply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/bank_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/clients/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/clients/adult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/clients/base_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/clients/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/loans/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/loans/base_loan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/loans/mortgage_loan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/loans/student_loan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/mine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/project/equipment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/project/equipment/base_equipment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/project/equipment/elbow_pad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/project/equipment/knee_pad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/project/teams/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/project/teams/base_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/project/teams/indoor_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/project/teams/outdoor_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/project/tournament.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID/01_SRP.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Lab/01_SRP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID/02_OCP.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Lab/02_OCP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID/02_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Lab/02_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID/02_example_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Lab/02_example_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID/03_LSP.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Lab/03_LSP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID/04_ISP.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Lab/04_ISP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Exercise/fixed/01_workers.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Exercise/fixed/01_workers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Exercise/fixed/02_workers_updated.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/07_SOLID - Exercise/fixed/02_workers_updated.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +125,8 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\03_inheritance_Exercise\02_zoo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.workers">
-    <configuration name="03_account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04_multiply">
+    <configuration name="01_number_increment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/03_account.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators/01_number_increment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_squares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_vowel_filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/04_squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators/02_vowel_filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_generator_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_even_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/05_generator_range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators/03_even_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_reverse_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_multiply" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Lab/06_reverse_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators/04_multiply.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="workers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,11 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa3560.24472" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa3560.24472/workers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/09_Decorators/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.workers" />
-        <item itemvalue="Python.03_account" />
-        <item itemvalue="Python.06_reverse_string" />
-        <item itemvalue="Python.05_generator_range" />
-        <item itemvalue="Python.04_squares" />
+        <item itemvalue="Python.04_multiply" />
+        <item itemvalue="Python.03_even_numbers" />
+        <item itemvalue="Python.02_vowel_filter" />
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.01_number_increment" />
       </list>
     </recent_temporary>
   </component>
@@ -506,6 +538,81 @@
           <url>file://$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/05_animals/main.py</url>
           <line>5</line>
           <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/main.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/main.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/main.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/main.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/main.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/bank_app.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/project/main.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/01_take_skip.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/05_take_halves.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/05_take_halves.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/05_take_halves.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/05_take_halves.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/05_take_halves.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/08_iterators_and_generators - Exercise/05_take_halves.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/09_Decorators/01_number_increment.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="125" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

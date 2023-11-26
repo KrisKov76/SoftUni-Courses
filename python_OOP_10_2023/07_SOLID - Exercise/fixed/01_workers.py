@@ -3,7 +3,8 @@
 
 class Worker:
 
-    def work(self):
+    @staticmethod
+    def work():
         print("I'm working!!")
 
 
@@ -21,11 +22,12 @@ class Manager:
         if self.worker is not None:
             self.worker.work()
 
+
 class SuperWorker:
 
-    def work(self):
+    @staticmethod
+    def work():
         print("I work very hard!!!")
-
 
 
 worker = Worker()
