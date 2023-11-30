@@ -41,37 +41,42 @@ class Account:
         return self._transactions[index]
 
     def __add__(self, other):
-        if not isinstance(other, Account):
-            raise TypeError(f"Unsupported operand type(s) for +: 'Account' and '{type(other).__name__}'")
-
         new_owner = f"{self.owner}&{other.owner}"
-        new_starting_amount = self.amount + other.amount
-        new_account = Account(new_owner, new_starting_amount)
+        new_account = Account(new_owner, self.amount)
         new_account._transactions = self._transactions + other._transactions
-
         return new_account
 
     @property
-    def balance(self):  # променено име на функцията
-        return self.amount  # променено име на атрибута
+    def balance(self):
+        return self.amount
+
+    def handle_transaction(self, transaction_amount):
+        new_balance = self.amount + transaction_amount
+        if new_balance < 0:
+            raise ValueError("sorry, cannot go in debt!")
+        else:
+            self._transactions.append(transaction_amount)
+            self.amount = new_balance
+            return f"New balance: {self.amount}"
 
     def add_transaction(self, amount):
         if not isinstance(amount, int):
             raise ValueError("please use int for amount")
         new_balance = self.amount + amount
         if new_balance < 0:
-            raise ValueError("Sorry, cannot go in debt!")
+            raise ValueError("sorry, cannot go in debt!")
         else:
             self._transactions.append(amount)
             self.amount = new_balance
             return f"New balance: {self.amount}"
+
 
 acc = Account('bob', 10)
 acc2 = Account('john')
 print(acc)
 print(repr(acc))
 acc.add_transaction(20)
-acc.add_transaction(-100)
+acc.add_transaction(-20)
 acc.add_transaction(30)
 print(acc.balance)
 print(len(acc))

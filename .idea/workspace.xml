@@ -5,16 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/01_logged.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/02_even_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/03_bold_italic_underline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/04_type_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/05_cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/06_HTML_tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Lab/class_decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/family/children/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/family/parents/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/10._testing - Lab/Worker/test_worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/10._testing - Lab/Worker/worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/01_mammal_skeleton/mammal/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/01_mammal_skeleton/mammal/test/test_mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/02_vehicle_skeleton/vehicle/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/02_vehicle_skeleton/vehicle/project/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/02_vehicle_skeleton/vehicle/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/02_vehicle_skeleton/vehicle/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/02_vehicle_skeleton/vehicle/test/test_vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/03_hero_skeleton/hero/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/project/booths/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/project/booths/booth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/project/booths/open_booth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/project/booths/private_booth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/project/christmas_pastry_shop_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/project/delicacies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/project/delicacies/delicacy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/project/delicacies/gingerbread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/project/delicacies/stolen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/roboti/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/roboti/base_robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/roboti/female_robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/roboti/male_robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/robots_managing_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/services/base_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/services/main_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/services/secondary_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/TEST/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/TEST/project/robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/TEST/project/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/TEST/project/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/project/managing_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/project/route.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/project/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/project/vehicles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/project/vehicles/base_vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/project/vehicles/cargo_van.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/project/vehicles/passenger_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project/band.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project/band_members/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project/band_members/drummer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project/band_members/guitarist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project/band_members/musician.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project/band_members/singer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project/concert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project/concert_tracker_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/03_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/06_polymorphism_and_abstraction - Exercise/03_account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/10._testing - Lab/01_test_worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/10._testing - Lab/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/10._testing - Lab/02_test_cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/01_mammal_skeleton/mammal/project/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/10._testing - Lab/03_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/01_mammal_skeleton/mammal/project/mammal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/10._testing - Lab/04_car_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/01_mammal_skeleton/mammal/test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/mine.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/mine.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,15 +139,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\Python OOP - Exams\Python OOP Retake Exam - 18 April 2023" />
+      <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\10._testing - Lab\Worker" />
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\07_SOLID - Exercise\fixed" />
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\06_polymorphism_and_abstraction - Exercise\04_wild_farm\project\animals" />
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\06_polymorphism_and_abstraction - Lab" />
-      <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\05_static_and_class+methods - Lab\04_hotel_rooms\project" />
-      <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\03_inheritance_Exercise\02_zoo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06_HTML_tags">
-    <configuration name="02_even_parameters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.mine">
+    <configuration name="concert_tracker_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/02_even_parameters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project/concert_tracker_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_bold_italic_underline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/03_bold_italic_underline.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_type_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/04_type_check.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_cache" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,11 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/05_cache.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_HTML_tags" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/06_HTML_tags.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/mine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06_HTML_tags" />
-        <item itemvalue="Python.05_cache" />
-        <item itemvalue="Python.04_type_check" />
-        <item itemvalue="Python.03_bold_italic_underline" />
-        <item itemvalue="Python.02_even_parameters" />
+        <item itemvalue="Python.mine" />
+        <item itemvalue="Python.concert_tracker_app" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -597,6 +649,99 @@
           <url>file://$PROJECT_DIR$/python_OOP_10_2023/09_decorators - Exercise/02_even_parameters.py</url>
           <line>19</line>
           <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/10._testing - Lab/Worker/test_worker.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/02_vehicle_skeleton/vehicle/test/test_vehicle.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/03_hero_skeleton/hero/test/test_hero.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/10_testing - Exercise/04_student_skeleton/student/tests/test_student.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/main.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/main.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/TEST/project/test/test.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/TEST/project/test/test.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/main.py</url>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/robots_managing_app.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/robots_managing_app.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/robots_managing_app.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/main.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/main.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/main.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/main.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/main.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project/main.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/project/band_members/drummer.py</url>
+          <option name="timeStamp" value="162" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
