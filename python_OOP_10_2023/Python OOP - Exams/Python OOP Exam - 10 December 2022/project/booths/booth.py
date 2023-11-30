@@ -1,7 +1,7 @@
-from abc import abstractmethod
+from abc import ABC, abstractmethod
 
 
-class Booth:
+class Booth(ABC):
     def __init__(self, booth_number: int, capacity: int):
         self.booth_number = booth_number
         self.capacity = capacity
@@ -20,5 +20,5 @@ class Booth:
         self.__capacity = value
 
     @abstractmethod
-    def reserve(self, member_of_people: int):
+    def reserve(self,number_of_people: int):
         pass
