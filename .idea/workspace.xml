@@ -5,29 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/TEST/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/TEST/project/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/TEST/project/test/test_toy_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/TEST/project/toy_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 5 August 2023/TEST/project/test.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/TEST/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/TEST/project/tennis_player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/TEST/project/test.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/TEST/project/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/TEST/project/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 15 August 2023/TEST/project/test.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/TEST/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/TEST/project/test.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/TEST/project/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/TEST/project/test/test_truck_driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/TEST/project/truck_driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 22 August 2022/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 22 August 2022/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/project.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 8 April 2023/project.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/TEST/project/test.zip" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 18 April 2023/TEST/project/test.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_race.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_race.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_race_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_race_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/appaloosa.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/appaloosa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/horse.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/horse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/thoroughbred.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/thoroughbred.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/jockey.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/jockey.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,33 +94,47 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\06_polymorphism_and_abstraction - Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_toy_store.TestToyStore.test_remove_toy_toy_not_in_shelf">
-    <configuration name="Python tests for test_toy_store.TestToyStore" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="horse_race_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/TEST/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_toy_store.TestToyStore&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_race_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_toy_store.TestToyStore.test_add_toy_shelf_already_taken" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/TEST/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_toy_store.TestToyStore.test_add_toy_shelf_already_taken&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for test_toy_store.TestToyStore.test_remove_toy_invalid_shelf" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -180,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.horse_race_app" />
         <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore.test_remove_toy_toy_not_in_shelf" />
         <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore.test_remove_toy_invalid_shelf" />
         <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore.test_remove_toy_success" />
-        <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore" />
-        <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore.test_add_toy_shelf_already_taken" />
       </list>
     </recent_temporary>
   </component>
@@ -733,6 +734,11 @@
           <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Retake Exam - 19 December 2022/TEST/project/test/test_truck_driver.py</url>
           <line>57</line>
           <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/main.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="186" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
