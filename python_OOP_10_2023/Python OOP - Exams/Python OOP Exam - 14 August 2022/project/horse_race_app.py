@@ -33,26 +33,29 @@ class HorseRaceApp:
 
     def add_horse(self, horse_type: str, horse_name: str, horse_speed: int):
         if horse_type not in self.VALID_TYPES:
-            return
+            return # това също е важно, защото реално казва - ако го няма там, да върне нищо
         existing_name = next((r for r in self.horses if r.name == horse_name), None)
         if existing_name:
             raise Exception(f"Horse {horse_name} has been already added!")
-        self.horses.append(self.VALID_TYPES[horse_type](horse_name, horse_speed))  # създавам нов обект кон през речника
+
+        new_horse = self.VALID_TYPES[horse_type](horse_name, horse_speed)
+        self.horses.append(new_horse)
         return f"{horse_type} horse {horse_name} is added."
 
     def add_jockey(self, jockey_name: str, age: int):
-        existing_name = next((r for r in self.jockeys if r.name == jockey_name), None)
+        # existing_name = next((r for r in self.jockeys if r.name == jockey_name), None)
+        existing_name = [r for r in self.jockeys if r.name == jockey_name]
         if existing_name:
             raise Exception(f"Jockey {jockey_name} has been already added!")
         new_jockey = Jockey(jockey_name, age)  # създавам нов обект Jockey
         self.jockeys.append(new_jockey)
         return f"Jockey {jockey_name} is added."
 
-    def create_horse_race(self, race_type: str):  # The method creates a race and adds it to the horse races' list.
+    def create_horse_race(self, race_type: str):
         if any(horse_race.race_type == race_type for horse_race in self.horse_races):  # не го съобразих!
             raise Exception(f"Race {race_type} has been already created!")
-        new_race = HorseRace(race_type)  # създавам нов обект HorseRace
-        self.horse_races.append(new_race)
+        new_race = HorseRace(race_type)  # creates a race
+        self.horse_races.append(new_race) # adds it to the horse races
         return f"Race {race_type} is created."
 
     def add_horse_to_jockey(self, jockey_name: str, horse_type: str):

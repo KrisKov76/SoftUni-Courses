@@ -5,16 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/TEST/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/TEST/project/railway_station.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/TEST/project/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/TEST/project/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/opit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/project/divers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/project/divers/base_diver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/project/divers/free_diver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/project/divers/scuba_diver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/project/fish/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/project/fish/base_fish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/project/fish/deep_sea_fish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/project/fish/predatory_fish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/project/nautical_catch_challenge_app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_race.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_race.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_race_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_race_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/appaloosa.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/appaloosa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/horse.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/horse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/thoroughbred.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_specification/thoroughbred.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/jockey.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/jockey.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,98 +104,84 @@
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\06_polymorphism_and_abstraction - Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="horse_race_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/project/horse_race_app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_toy_store.TestToyStore.test_remove_toy_invalid_shelf" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test.TestRailwayStation.test_new_arrival_on_board_order">
+    <configuration name="Python tests for test.TestRailwayStation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/TEST/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/TEST/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_toy_store.TestToyStore.test_remove_toy_invalid_shelf&quot;" />
+      <option name="_new_target" value="&quot;test.TestRailwayStation&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_toy_store.TestToyStore.test_remove_toy_success" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestRailwayStation.test_new_arrival_on_board_invalid_info" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/TEST/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/TEST/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_toy_store.TestToyStore.test_remove_toy_success&quot;" />
+      <option name="_new_target" value="&quot;test.TestRailwayStation.test_new_arrival_on_board_invalid_info&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_toy_store.TestToyStore.test_remove_toy_toy_not_in_shelf" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestRailwayStation.test_new_arrival_on_board_order" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 December 2022/TEST/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/TEST/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_toy_store.TestToyStore.test_remove_toy_toy_not_in_shelf&quot;" />
+      <option name="_new_target" value="&quot;test.TestRailwayStation.test_new_arrival_on_board_order&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.TestRailwayStation.test_train_has_left_unscheduled_train" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/TEST/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestRailwayStation.test_train_has_left_unscheduled_train&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.TestRailwayStation.test_train_order_in_deques" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/TEST/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestRailwayStation.test_train_order_in_deques&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.horse_race_app" />
-        <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore.test_remove_toy_toy_not_in_shelf" />
-        <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore.test_remove_toy_invalid_shelf" />
-        <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore.test_remove_toy_success" />
+        <item itemvalue="Python tests.Python tests for test.TestRailwayStation.test_new_arrival_on_board_order" />
+        <item itemvalue="Python tests.Python tests for test.TestRailwayStation.test_train_order_in_deques" />
+        <item itemvalue="Python tests.Python tests for test.TestRailwayStation.test_train_has_left_unscheduled_train" />
+        <item itemvalue="Python tests.Python tests for test.TestRailwayStation.test_new_arrival_on_board_invalid_info" />
+        <item itemvalue="Python tests.Python tests for test.TestRailwayStation" />
       </list>
     </recent_temporary>
   </component>
@@ -281,26 +277,6 @@
           <url>file://$PROJECT_DIR$/python_advanced_09_2023/01_christmas_elves - 1/01_christmas_elves.py</url>
           <line>9</line>
           <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/01. Flowers Finder_Author's Solution 1.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/01. Flowers Finder_Author's Solution 1.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/01. Flowers Finder_Author's Solution 2.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/01. Flowers Finder_Author's Solution 2.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/python_advanced_09_2023/00_python_advanced_exam/01. Flowers Finder.py</url>
@@ -739,6 +715,31 @@
           <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/main.py</url>
           <line>6</line>
           <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 14 August 2022/main.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 April 2022/main.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 10 April 2022/main.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/opit.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python Exam - 09.12.2023/TEST/project/test/test.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="194" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
