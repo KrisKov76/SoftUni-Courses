@@ -9,7 +9,7 @@ class RobotsManagingApp:
     ROBOT_TYPES = {"MaleRobot": MaleRobot, "FemaleRobot": FemaleRobot}
 
     def __init__(self):
-        self.robots_serv = []
+        self.robots = []
         self.services = []
 
     def add_service(self, service_type: str, name: str):
@@ -21,7 +21,7 @@ class RobotsManagingApp:
     def add_robot(self, robot_type: str, name: str, kind: str, price: float):
         if robot_type not in self.ROBOT_TYPES:
             raise Exception("Invalid robot type!")
-        self.robots_serv.append(self.ROBOT_TYPES[robot_type](name, kind, price))
+        self.robots.append(self.ROBOT_TYPES[robot_type](name, kind, price))
         return f"{robot_type} is successfully added."
 
         # if robot_type == "MaleRobot":
@@ -34,14 +34,14 @@ class RobotsManagingApp:
         # return f"{robot_type} is successfully added."
 
     def add_robot_to_service(self, robot_name: str, service_name: str):
-        robot_obj = [obj for obj in self.robots_serv if obj.name == robot_name][0]
+        robot_obj = [obj for obj in self.robots if obj.name == robot_name][0]
         service_obj = [obj for obj in self.services if obj.name == service_name][0]
 
         if robot_obj.POSSIBLE_SERVICE != service_obj.__class__.__name__:
             return "Unsuitable service."
         if len(service_obj.robo_lst) >= service_obj.capacity:
             raise Exception("Not enough capacity for this robot!")
-        self.robots_serv.remove(robot_obj)
+        self.robots.remove(robot_obj)
         service_obj.robo_lst.append(robot_obj)
         return f"Successfully added {robot_name} to {service_name}."
 
@@ -55,7 +55,7 @@ class RobotsManagingApp:
             raise Exception("No such robot in this service!")
         robot_obj = robot[0]
         service_obj.robo_lst.remove(robot_obj)  # премахни от secondaryService
-        self.robots_serv.append(robot_obj)
+        self.robots.append(robot_obj)
         return f"Successfully removed {robot_name} from {service_name}."
 
     def feed_all_robots_from_service(self, service_name: str):
