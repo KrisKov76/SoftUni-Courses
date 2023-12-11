@@ -21,7 +21,7 @@ class Pharmacist(Human):
         self.pharmacists = []
 
     def details(self):
-        return f'Name: {self.name}, Age: {self.age}, Height: {self.height}, Weight: {self.weight},'
+        return f'Name: {self.name}, Age: {self.age}, Height: {self.height}, Weight: {self.weight}'
 
 
 class Pharmacy:
@@ -118,6 +118,10 @@ class PharmApp:
         else:
             return f'Няма свързани фармацевти към аптека {pharmacy_name}'
 
+    def get_pharmacists_details(self, pharmacist_name):
+        pharmacist = self.check_duplicate_name(pharmacist_name, self.pharmacists_app)
+        return pharmacist.details()
+
 
 myPharm = PharmApp()
 
@@ -126,7 +130,7 @@ print(myPharm.add_pharmacist('Kristian', 47, 165, 100))
 
 print(myPharm.add_pharmacist('Natalia', 46, 165, 70))
 print(myPharm.add_pharmacist('Krasimir Kulinski', 36, 175, 65))
-print(myPharm.add_pharmacist('Vasilka Jilova', 30, 170, 80,))
+print(myPharm.add_pharmacist('Vasilka Jilova', 30, 170, 80, ))
 
 print(myPharm.add_pharmacy('Sopharmacy Novotel', '0882368183'))
 print(myPharm.add_pharmacy('Sopharmacy Novotel', '0882368183'))
@@ -145,3 +149,4 @@ print(myPharm.print_pharmacists_for_pharmacy('Sopharmacy Novotel'))
 print(myPharm.add_revenue_to_pharmacy('Sopharmacy Novotel', 5000))
 print(myPharm.add_revenue_to_pharmacy('Sopharmacy Novotel', 100000))
 
+print(myPharm.get_pharmacists_details('Kristian'))
