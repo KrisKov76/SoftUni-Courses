@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental/Experiment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Opit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 2/Experimental.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 2/Experimental.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental/project/human/human.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental/project/human/pharmacist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental/Experiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental/Experiment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +71,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Python.Experiment.executor": "Run",
     "Python.Experimental.executor": "Run",
+    "Python.Opit.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -136,18 +135,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for project.test.test.TestRailwayStation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Opit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 09.12.2023/TEST/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;project.test.test.TestRailwayStation&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Opit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for project.test.test.TestRailwayStation.test_new_arrival_on_board_order" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -162,21 +169,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;project.test.test.TestRailwayStation.test_new_arrival_on_board_order&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for project.test.test.TestRailwayStation.test_train_has_left_unscheduled_train" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Courses" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Python OOP Exam - 09.12.2023/TEST/project/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;project.test.test.TestRailwayStation.test_train_has_left_unscheduled_train&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -198,10 +190,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Experiment" />
+        <item itemvalue="Python.Opit" />
         <item itemvalue="Python.Experimental" />
         <item itemvalue="Python tests.Python tests for project.test.test.TestRailwayStation.test_new_arrival_on_board_order" />
         <item itemvalue="Python tests.Python tests for project.test.test.TestRailwayStation.test_train_order_in_deques" />
-        <item itemvalue="Python tests.Python tests for project.test.test.TestRailwayStation.test_train_has_left_unscheduled_train" />
       </list>
     </recent_temporary>
   </component>
