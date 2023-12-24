@@ -10,7 +10,11 @@ class Pharmacist(Employee):
         super().__init__(name, age, salary)
         self.qualification = qualification
         self.is_manager = is_manager
-        self.is_bphu_member = False  # Bulgarian Pharmacy Union member
+        self.is_bphu_member = False
+
+    def __str__(self):
+        return f"{self.name}({self.age})"
+
 
 class Pharmacy:
     def __init__(self, pharmacy_name, number_of_employees):
@@ -215,3 +219,4 @@ print()
 
 pharmacist_info = my_app.get_pharmacist_info('Vencislava')
 print(pharmacist_info)
+print(my_app)
