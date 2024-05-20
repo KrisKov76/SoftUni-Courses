@@ -5,11 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 3/Experimental - 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni-Courses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/01_create_a_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/02_rename_the_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/03_alter_the_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/05_add_new_columns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/06_create_ENUM_type.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/07_set_default.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/08.add_constraints.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/09_change_columns_data_type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/10_drop_constraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/11_remove_column" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/12_table_birthdays" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/13_insert_into" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/14_select" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/15_truncate_the_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/16_drop_the_table" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/17_drop_the_database" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental/Experiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental/Experiment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Opit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 2/Experimental.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 3/Experimental - 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental/Experiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/family/children/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/family/parents/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/04_rename_column.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,34 +84,36 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.Experiment.executor": "Run",
-    "Python.Experimental (1).executor": "Run",
-    "Python.Experimental - 4.executor": "Run",
-    "Python.Experimental.executor": "Run",
-    "Python.Opit.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Program Files/JetBrains/PyCharm Community Edition 2023.2.3/plugins/ideolog/lib/com.jetbrains.ideolog-201.0.20.0.jar",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.Experiment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Experimental (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Experimental - 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Experimental.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Experimental_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Experimental_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Opit.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/JetBrains/PyCharm Community Edition 2023.2.3/plugins/ideolog/lib/com.jetbrains.ideolog-201.0.20.0.jar&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_db_05_2024\Exercises_postgreSQL_introduction_data_ types_and_table_basics" />
+      <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\Experimental" />
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\Python OOP - Exams\Experimental" />
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\Python OOP - Exams" />
       <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\Python OOP - Exams\Python OOP Retake Exam - 18 April 2023" />
-      <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\10._testing - Lab\Worker" />
-      <recent name="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\07_SOLID - Exercise\fixed" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Experimental - 4">
+  <component name="RunManager" selected="Python.Experimental_4">
     <configuration name="Experiment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="ENV_FILES" value="" />
@@ -139,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Experimental (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Experimental3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 3/Experimental.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\Python OOP - Exams\Experimental - 3\Experimental3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Experimental" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Experimental_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Courses" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,7 +193,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 2/Experimental.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\Experimental\Experimental_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Experimental_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\KRISTIAN\Documents\GitHub\SoftUni-Courses\python_OOP_10_2023\Experimental\Experimental_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Experimental_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Courses" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_OOP_10_2023/Experimental" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Experimental - 4" />
-        <item itemvalue="Python.Experimental (1)" />
+        <item itemvalue="Python.Experimental_4" />
+        <item itemvalue="Python.Experimental_3" />
+        <item itemvalue="Python.Experimental3" />
         <item itemvalue="Python.Experiment" />
         <item itemvalue="Python.Opit" />
-        <item itemvalue="Python.Experimental" />
       </list>
     </recent_temporary>
   </component>
@@ -779,33 +842,33 @@
           <option name="timeStamp" value="194" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 2/Experimental.py</url>
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_2.py</url>
           <line>173</line>
           <option name="timeStamp" value="195" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 2/Experimental.py</url>
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_2.py</url>
           <line>146</line>
           <option name="timeStamp" value="196" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 2/Experimental.py</url>
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_2.py</url>
           <line>158</line>
           <option name="timeStamp" value="197" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 3/Experimental - 4.py</url>
-          <line>97</line>
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_3.py</url>
+          <line>99</line>
           <option name="timeStamp" value="210" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 3/Experimental - 4.py</url>
-          <line>99</line>
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_3.py</url>
+          <line>101</line>
           <option name="timeStamp" value="211" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 3/Experimental - 4.py</url>
-          <line>92</line>
+          <url>file://$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_3.py</url>
+          <line>94</line>
           <option name="timeStamp" value="212" />
         </line-breakpoint>
       </breakpoints>
