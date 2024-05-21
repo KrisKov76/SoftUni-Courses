@@ -5,28 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/01_create_a_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/02_rename_the_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/03_alter_the_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/05_add_new_columns.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/06_create_ENUM_type.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/07_set_default.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/08.add_constraints.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/09_change_columns_data_type" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/10_drop_constraint.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/11_remove_column" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/12_table_birthdays" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/13_insert_into" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/14_select" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/15_truncate_the_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/16_drop_the_table" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/17_drop_the_database" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_basic_CRUD/01_select_cities.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_basic_CRUD/02_concatenate.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_basic_CRUD/03_remove_duplicate_rows.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_basic_CRUD/04_limit_records.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 2/Experimental.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental - 3/Experimental - 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/Python OOP - Exams/Experimental/Experiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/family/children/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_OOP_10_2023/Experimental/Experimental_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_OOP_10_2023/family/parents/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/04_rename_column.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/01_create_a_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/01_create_a_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/02_rename_the_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/02_rename_the_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/03_alter_the_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/03_alter_the_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/04_rename_column.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/04_rename_column.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/05_add_new_columns.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/05_add_new_columns.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/06_create_ENUM_type.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/06_create_ENUM_type.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/07_set_default.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/07_set_default.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/08.add_constraints.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/08.add_constraints.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/09_change_columns_data_type" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/09_change_columns_data_type" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/10_drop_constraint.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/10_drop_constraint.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/11_remove_column" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/11_remove_column" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/12_table_birthdays" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/12_table_birthdays" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/13_insert_into" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/13_insert_into" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/14_select" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/14_select" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/15_truncate_the_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/15_truncate_the_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/16_drop_the_table" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/16_drop_the_table" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_db_05_2024/Exercises_postgreSQL_introduction_data_ types_and_table_basics/17_drop_the_database" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_introduction_data_ types_and_table_basics/17_drop_the_database" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
