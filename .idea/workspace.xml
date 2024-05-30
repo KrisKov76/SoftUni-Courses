@@ -5,36 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b50c74-7b7a-495f-8476-c78da7c13d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/еxercises_postgreSQL_data_aggregation/13_sum_the_employees.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/еxercises_postgreSQL_data_aggregation/14_update_employees_data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/еxercises_postgreSQL_data_aggregation/15_categorizes_salary.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/еxercises_postgreSQL_data_aggregation/16_where_project_status.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_db_05_2024/еxercises_postgreSQL_data_aggregation/17_having_salary_level.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_table_relations/01_primary_key.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_table_relations/02_remove_primary_key.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_table_relations/03_customs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_table_relations/04_car_manufacture.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_table_relations/06_photo_shooting.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_table_relations/08_study_session.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_table_relations/10_online_store.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_table_relations/11_delete_cascade.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_table_relations/12_update_cascade.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_table_relations/13_set_null.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/01_river_info.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/01_river_info.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/02_concatenate_geography_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/02_concatenate_geography_data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/03_capital_code.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/03_capital_code.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/04_(descr)iption.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/04_(descr)iption.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/05_substring_river_length.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/05_substring_river_length.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/06_replace_a.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/06_replace_a.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/07_translate.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/07_translate.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/08_leading.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/08_leading.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/09_trailing.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/09_trailing.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/10_ltrim_ &amp;_rtrim.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/10_ltrim_ &amp;_rtrim.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/11_character_length_and_bits.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/11_character_length_and_bits.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/12_length_of_a_number.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/12_length_of_a_number.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/13_positive_and_negative_left.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/13_positive_and_negative_left.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/14_positive_and_negative_right.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/14_positive_and_negative_right.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/15_update_iso_code.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/15_update_iso_code.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/16_reverse_country_code.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/16_reverse_country_code.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/17_elevation_peak_name.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/17_elevation_peak_name.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/18_arithmetical_operators.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/18_arithmetical_operators.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/19_round_vs_trunc.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/19_round_vs_trunc.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/20_absolute_value.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/20_absolute_value.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/21_billing_day.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/21_billing_day.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/22_extract_booked_at.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/22_extract_booked_at.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/23_early_birds.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/23_early_birds.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/24_match_or_not.sql" beforeDir="false" afterPath="$PROJECT_DIR$/python_db_05_2024/exercises_postgreSQL_built-in_functions/24_match_or_not.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
